@@ -41,6 +41,7 @@ W porównaniu z innymi starciami kampanii działania pod Borkowem — prowadzone
 
 ## Zasady specjalne
 
+* Bitwa zaczyna się o 11:00, inicjatywę mają Francuzi.
 * Traktujemy żetony 1 Dywizji Dragonów jakby miały gwiazdkę - prowadzą ostrzał zgodnie z ostrzałem kawalerii.
 * Jednostka huzarów Dorochow spełnia rolę dowódcy dla wojsk rosyjskich. Jego Modyfikator Dowodzenia to 0.
 

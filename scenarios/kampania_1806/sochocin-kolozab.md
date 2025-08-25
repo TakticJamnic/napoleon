@@ -70,8 +70,8 @@ Odwód
 
 ## Zasady specjalne
 
-* Traktujemy żetony 1 Dywizji Dragonów jakby miały gwiazdkę - prowadzą ostrzał zgodnie z ostrzałem kawalerii.
-* Jednostka huzarów Dorochow spełnia rolę dowódcy dla wojsk rosyjskich. Jego Modyfikator Dowodzenia to 0.
+* Bitwa zaczyna się o 11:00, inicjatywę mają Francuzi.
+* Jednostki piechoty Barclay i Markov 2 spełniają rolę dowódcy dla wojsk rosyjskich. Ich Modyfikator Dowodzenia to 0.
 
 ## Teren specjalny
 
